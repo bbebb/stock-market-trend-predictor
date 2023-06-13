@@ -1,6 +1,6 @@
 # stock-market-trend-predictor
 
-This repository contains a stock market trend predictor created to train an algorithm on historical Apple, Inc. stock trends and accurately predict future trends in the the market. 
+This repository contains a stock market trend predictor created to train multiple machine learning models on historical Apple, Inc. (AAPL) stock trends and accurately predict future trends in the the market. 
 
 The R program looks to first recreate a predictive support vector model created by Bin Weng at Auburn University, then improve the model's accuracy by alternatively implementing the model with AdaBoost trees. 
 
