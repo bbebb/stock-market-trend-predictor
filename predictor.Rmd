@@ -2,7 +2,7 @@
 title: "415 Project"
 author: "Brendan Bebb"
 date: "2022-11-16"
-output: pdf_document
+output: pdf_document 
 ---
 ```{r}
 APPL = AAPL
